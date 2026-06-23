@@ -1,0 +1,7 @@
+{
+  "name": "url-shortener",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
